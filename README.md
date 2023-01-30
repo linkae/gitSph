@@ -1,5 +1,3 @@
-# ShoppingV
-
 ## Project setup
 ```
 npm install
